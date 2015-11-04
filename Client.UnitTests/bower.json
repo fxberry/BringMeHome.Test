@@ -1,0 +1,19 @@
+{
+  "name": "Client.UnitTests",
+  "version": "0.0.0",
+  "authors": [
+    "Dmitry V. Abuzyarov <dvabuzyarov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "angular-mocks": "~1.4.4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TimeTrack.App.E2E.Tests",
+  "version": "0.0.0",
+  "description": "E2E tests",
+  "scripts": {
+    "test": "protractor protractor.conj.js"
+  },
+  "author": "dvabuzyarov@gmail.com",
+  "license": "proprietary",
+  "devDependencies": {
+    "request": "^2.55.0"
+  }
+}

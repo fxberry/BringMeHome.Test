@@ -1,0 +1,42 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "angular-protractor/angular-protractor.d.ts": {
+      "commit": "2272849a06f2b68205611665e6b86ffec58c1e10"
+    },
+    "selenium-webdriver/selenium-webdriver.d.ts": {
+      "commit": "2272849a06f2b68205611665e6b86ffec58c1e10"
+    },
+    "jasmine-fixture/jasmine-fixture.d.ts": {
+      "commit": "2272849a06f2b68205611665e6b86ffec58c1e10"
+    },
+    "jasmine-jquery/jasmine-jquery.d.ts": {
+      "commit": "2272849a06f2b68205611665e6b86ffec58c1e10"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "2272849a06f2b68205611665e6b86ffec58c1e10"
+    },
+    "jasmine-matchers/jasmine-matchers.d.ts": {
+      "commit": "2272849a06f2b68205611665e6b86ffec58c1e10"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "f3244190e20af6901e865f4cc58127d19216baa1"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "016a970de58cc46310c75bd8f0c10642c4f44609"
+    },
+    "request/request.d.ts": {
+      "commit": "a61199a4684d70334795302f09fb2a6b8ca016db"
+    },
+    "node/node.d.ts": {
+      "commit": "a61199a4684d70334795302f09fb2a6b8ca016db"
+    },
+    "form-data/form-data.d.ts": {
+      "commit": "a61199a4684d70334795302f09fb2a6b8ca016db"
+    }
+  }
+}
