@@ -8,3 +8,4 @@ E2E.Tests/node_modules/
 E2E.Tests/typings/
 E2E.Tests/**/*.map
 E2E.Tests/**/*.js
+!protractor.conf.js
